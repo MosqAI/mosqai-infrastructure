@@ -5,7 +5,7 @@ Docker Compose stacks, the MQTT broker config (TLS + per-device ACL), shared CI/
 workflows, environment separation (dev / staging / prod), backups, and
 monitoring/logging.
 
-Primary owner: Developer 1, with Developer 2 on the broker and device provisioning.
+Owner: `@MosqAI/core` team (RavynX0, Hope664).
 
 ## Technology
 
